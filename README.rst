@@ -1,4 +1,4 @@
-helloworld
+Django Hello World / Demo app ...
 ==========
 
 A Django 'hello world' example.
